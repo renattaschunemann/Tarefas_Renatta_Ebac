@@ -2,5 +2,5 @@
 treinamento clone repositório
 
 Primeiro exemplo de commit e push no repositório remoto.
-Segundo commit
+Segundo commit.
 quarto commit.
